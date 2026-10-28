@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Curriculum</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background-color: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #cccccc;
+        }
+
+        h1 {
+            color: #17365d;
+            text-align: center;
+        }
+
+        h2 {
+            color: #156082;
+            border-bottom: 2px solid #156082;
+        }
+
+        h3 {
+            color: #444444;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 25px;
+            color: #555555;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <h1>Course Curriculum</h1>
+        <h2>Web Designing</h2>
+
+        <h3>1. Introduction</h3>
+        <p>
+            Web designing is the process of creating attractive and
+            user-friendly websites using HTML, CSS, and JavaScript.
+        </p>
+
+        <h3>2. Text Formatting Tags</h3>
+        <p><b>This text is bold.</b></p>
+        <p><i>This text is italic.</i></p>
+        <p><u>This text is underlined.</u></p>
+        <p><b><i>Bold and italic text</i></b></p>
+
+        <h3>3. Special Characters</h3>
+        <p>
+            Copyright: &copy; 2026<br>
+            Registered Trademark: &reg;<br>
+            Less than: &lt;<br>
+            Greater than: &gt;<br>
+            Ampersand: &amp;<br>
+            Rupee symbol: &#8377;
+        </p>
+
+        <h3>4. Ordered List</h3>
+        <p>Subjects included in the course:</p>
+        <ol>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Web Hosting</li>
+        </ol>
+
+        <h3>5. Unordered List</h3>
+        <p>Tools required for web designing:</p>
+        <ul>
+            <li>Visual Studio Code</li>
+            <li>Google Chrome</li>
+            <li>Notepad</li>
+            <li>Web Browser</li>
+        </ul>
+
+        <h3>6. Description List</h3>
+        <dl>
+            <dt><b>HTML</b></dt>
+            <dd>HTML is used to create the structure of a web page.</dd>
+
+            <dt><b>CSS</b></dt>
+            <dd>CSS is used to style and design a web page.</dd>
+
+            <dt><b>JavaScript</b></dt>
+            <dd>JavaScript adds interactivity to a web page.</dd>
+        </dl>
+
+        <h3>7. Nested List</h3>
+        <ul>
+            <li>Frontend Development
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+            </li>
+
+            <li>Backend Development
+                <ul>
+                    <li>Python</li>
+                    <li>PHP</li>
+                    <li>Node.js</li>
+                </ul>
+            </li>
+        </ul>
+
+        <h3>8. Mixed List</h3>
+        <ol>
+            <li>Web Designing
+                <ul>
+                    <li>HTML
+                        <ol>
+                            <li>Headings and Paragraphs</li>
+                            <li>Text Formatting</li>
+                            <li>Lists and Links</li>
+                        </ol>
+                    </li>
+                    <li>CSS Styling</li>
+                </ul>
+            </li>
+
+            <li>Web Development
+                <ul>
+                    <li>JavaScript</li>
+                    <li>Website Testing</li>
+                </ul>
+            </li>
+        </ol>
+
+        <h3>9. Conclusion</h3>
+        <p>
+            This course helps students learn the basics of web designing
+            and create simple, attractive, and responsive web pages.
+        </p>
+
+        <div class="footer">
+            <p>&copy; 2026 Web Designing Course</p>
+        </div>
+
+    </div>
+</body>
+</html>
