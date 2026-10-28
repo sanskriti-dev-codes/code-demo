@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Daily News</title>
+</head>
+<body>
+
+    <h1 align="center">Global Daily News</h1>
+    <p align="center">Your Trusted Source for Latest Updates</p>
+    <hr>
+
+    <nav align="center">
+        <a href="#world">World</a> |
+        <a href="#gaming">Gaming</a> |
+        <a href="#entertainment">Entertainment</a> |
+        <a href="#podcast">Podcast</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+    <hr>
+
+    <h2 id="world">World News</h2>
+    <p>Today's top headline: Global leaders meet to discuss climate change initiatives.</p>
+    <img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c" height="315px" />
+    <br>
+    <hr>
+    <a href="https://www.bbc.com" target="_blank">Read more on BBC</a>
+    <hr>
+
+    <h1 id="gaming">Gaming Update</h1>
+    <p>Highlights of yesterday's E-sports match with thrilling last-minute victory.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+    <hr>
+
+    <h1 id="entertainment">Entertainment Buzz</h1>
+    <p>New movie trailer released today. Fans are excited!</p>
+    <video width="560px" controls>
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+    </video>
+    <hr>
+
+    <h1 id="pod
